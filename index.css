@@ -1,0 +1,29 @@
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+    border-width: 20px;
+    border-style: solid;
+    border-color: #ec6478;
+    text-align: center;
+  }
+
+  h1 {
+    color: darkslateblue;
+    margin-left: 40px;
+  }
+
+  #msg2 {
+    font-style: italic;
+    font-size: 36px;
+    color: #000000;
+  }
+  #msg {
+    font-style: italic;
+    font-size: 26px;
+    color: #f12469;
+    margin-top: 50px;
+  }
+  
+  a {
+    color: #ffffff;
+    text-decoration: none;
+  }
